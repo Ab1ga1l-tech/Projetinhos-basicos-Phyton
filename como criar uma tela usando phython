@@ -1,0 +1,8 @@
+import tkinter as tk
+
+# criando janela
+janela = tk.Tk()
+janela.title("Como criar uma janela no python")
+janela.geometry("500x600")
+
+janela.mainloop()
