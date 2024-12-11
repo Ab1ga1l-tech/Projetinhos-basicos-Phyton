@@ -6,7 +6,7 @@ def adicionar_tarefa():
     print(f"Tarefa '{tarefa}' adicionada.")
 
 # Função para ver as tarefas
-def ver_tarefas():
+def ver_tarefas():  
     if lista:
         print("\nTarefas pendentes:")
         for idx, tarefa in enumerate(lista, start=1):
