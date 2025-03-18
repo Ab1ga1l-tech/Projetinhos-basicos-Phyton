@@ -1,1 +1,1 @@
-Projetos de back-end em python
+Projeto em python no prompt usando o VsCode
